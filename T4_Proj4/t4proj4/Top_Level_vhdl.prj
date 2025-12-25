@@ -1,0 +1,6 @@
+vhdl work "/home/ise/ise_projs/T4/T4_proj4/t4proj4/mult_div.vhd"
+vhdl work "/home/ise/ise_projs/T4/T4_proj4/t4proj4/MIPS_S_Prt.vhd"
+vhdl work "/home/ise/ise_projs/T4/T4_proj4/t4proj4/memory.vhd"
+vhdl work "/home/ise/ise_projs/T4/T4_proj4/t4proj4/Periferico.vhd"
+vhdl work "/home/ise/ise_projs/T4/T4_proj4/t4proj4/MIPS_S_withBRAMs.vhd"
+vhdl work "/home/ise/ise_projs/T4/T4_proj4/t4proj4/Top_Level.vhd"

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="/home/ise/ise_projs/T4/T4_proj4/t4proj4/Top_System_Root_tb_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="p_mips_s" />
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_signed" />
+            <top_module name="std_logic_unsigned" />
+            <top_module name="textio" />
+            <top_module name="top_system_root_tb" />
+            <top_module name="vcomponents" />
+            <top_module name="vital_primitives" />
+            <top_module name="vital_timing" />
+            <top_module name="vpkg" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="9" />
+   <wvobject fp_name="/top_system_root_tb/clk_tb" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk_tb</obj_property>
+      <obj_property name="ObjectShortName">clk_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_system_root_tb/rst_tb" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rst_tb</obj_property>
+      <obj_property name="ObjectShortName">rst_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_system_root_tb/UUT_SYSTEM/sys_suspend" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">sys_suspend</obj_property>
+      <obj_property name="ObjectShortName">sys_suspend</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_system_root_tb/UUT_SYSTEM/DMA_UNIT/suspend_ack" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">suspend_ack</obj_property>
+      <obj_property name="ObjectShortName">suspend_ack</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_system_root_tb/UUT_SYSTEM/sys_data" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">sys_data[31:0]</obj_property>
+      <obj_property name="ObjectShortName">sys_data[31:0]</obj_property>
+      <obj_property name="Radix">ASCIIRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_system_root_tb/UUT_SYSTEM/sys_addr" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">sys_addr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">sys_addr[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_system_root_tb/UUT_SYSTEM/status_led" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">status_led</obj_property>
+      <obj_property name="ObjectShortName">status_led</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_system_root_tb/UUT_SYSTEM/sys_we" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">sys_we</obj_property>
+      <obj_property name="ObjectShortName">sys_we</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_system_root_tb/UUT_SYSTEM/DMA_UNIT/current_state" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">current_state</obj_property>
+      <obj_property name="ObjectShortName">current_state</obj_property>
+   </wvobject>
+</wave_config>

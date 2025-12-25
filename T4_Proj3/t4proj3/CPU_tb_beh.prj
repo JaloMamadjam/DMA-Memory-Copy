@@ -1,0 +1,3 @@
+vhdl work "mult_div.vhd"
+vhdl work "MIPS_S_Sim.vhd"
+vhdl work "MIPS_S_Sim_tb.vhd"

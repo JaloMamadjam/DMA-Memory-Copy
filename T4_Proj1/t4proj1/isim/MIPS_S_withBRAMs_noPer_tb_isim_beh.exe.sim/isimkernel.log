@@ -1,0 +1,10 @@
+Command line:
+   MIPS_S_withBRAMs_noPer_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  35019
+
+Thu Nov 27 14:43:05 2025
+
+
+ Elaboration Time: 0.11 sec

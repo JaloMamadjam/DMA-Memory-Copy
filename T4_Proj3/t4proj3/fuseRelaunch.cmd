@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/ise/ise_projs/T4/T4_proj3/t4proj3/CPU_tb_isim_beh.exe" -prj "/home/ise/ise_projs/T4/T4_proj3/t4proj3/CPU_tb_beh.prj" "work.CPU_tb" 

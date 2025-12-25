@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/ise/ise_projs/T4/T4_proj4/t4proj4/Top_System_Root_tb_isim_beh.exe" -prj "/home/ise/ise_projs/T4/T4_proj4/t4proj4/Top_System_Root_tb_beh.prj" "work.Top_System_Root_tb" 

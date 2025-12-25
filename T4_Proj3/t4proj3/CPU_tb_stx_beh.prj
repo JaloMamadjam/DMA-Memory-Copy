@@ -1,0 +1,3 @@
+vhdl isim_temp "mult_div.vhd"
+vhdl isim_temp "MIPS_S_Sim.vhd"
+vhdl isim_temp "MIPS_S_Sim_tb.vhd"

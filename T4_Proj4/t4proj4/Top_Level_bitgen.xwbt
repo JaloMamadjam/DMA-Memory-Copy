@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/ise/ise_projs/T4/T4_proj4/t4proj4/Top_Level.ncd
+OUTFILE=/home/ise/ise_projs/T4/T4_proj4/t4proj4/Top_Level.bit
+FAMILY=Spartan3E
+PART=xc3s1200e-4fg320
+WORKINGDIR=/home/ise/ise_projs/T4/T4_proj4/t4proj4
+LICENSE=WebPack
+USER_INFO=213527987_0_0_757

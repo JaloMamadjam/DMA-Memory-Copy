@@ -1,0 +1,11 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Wed Dec 10 09:18:13 2025
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "sys_clk" LOCATE = SITE "B8" LEVEL 1;
+COMP "sys_rst" LOCATE = SITE "B18" LEVEL 1;
+COMP "status_led" LOCATE = SITE "J14" LEVEL 1;
+NET "sys_clk_BUFGP/IBUFG" BEL "sys_clk_BUFGP/BUFG.GCLKMUX" USELOCALCONNECT;
+SCHEMATIC END;
+

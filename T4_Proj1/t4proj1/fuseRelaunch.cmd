@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/ise/ise_projs/T4/T4_Proj1/t4proj1/MIPS_S_withBRAMs_noPer_tb_isim_beh.exe" -prj "/home/ise/ise_projs/T4/T4_Proj1/t4proj1/MIPS_S_withBRAMs_noPer_tb_beh.prj" "work.MIPS_S_withBRAMs_noPer_tb" 

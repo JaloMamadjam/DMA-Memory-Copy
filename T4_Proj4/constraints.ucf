@@ -1,0 +1,15 @@
+# ==============================================================================
+# PINOUT CONSTRAINTS FOR TOP_SYSTEM_ROOT
+# Target Board: Digilent Nexys 2 (Spartan-3E)
+# ==============================================================================
+
+# System Clock (50MHz)
+NET "sys_clk"      LOC = "B8"; 
+
+# User Reset Button
+# Mapping to BTN0
+NET "sys_rst"      LOC = "B18"; 
+
+# Status LED
+# Mapping to LD0
+NET "status_led"   LOC = "J14"; 

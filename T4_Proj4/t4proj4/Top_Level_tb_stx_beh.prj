@@ -1,0 +1,7 @@
+vhdl isim_temp "mult_div.vhd"
+vhdl isim_temp "MIPS_S_Prt.vhd"
+vhdl isim_temp "memory.vhd"
+vhdl isim_temp "Periferico.vhd"
+vhdl isim_temp "MIPS_S_withBRAMs.vhd"
+vhdl isim_temp "Top_Level.vhd"
+vhdl isim_temp "Top_Level_tb.vhd"
